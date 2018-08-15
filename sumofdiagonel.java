@@ -1,5 +1,3 @@
-package set5;
-
 import java.util.Scanner;
 public class sumofdiagonel {
 public static void main(String[] args) {
