@@ -1,5 +1,3 @@
-package set6;
-
 public class factorialno {
 	public static void main(String[] args) {
 		int no=Integer.parseInt(args[0]);
